@@ -1,0 +1,7 @@
+Character
+BurnedOut (True/False)
+StartBoostFrame (0 if did not get)
+////
+Frame;UsedMushroom;Coins;KeysHeld (as integers)
+Frame;UsedMushroom;Coins;Key/Key/Key
+10;False;0;W/A

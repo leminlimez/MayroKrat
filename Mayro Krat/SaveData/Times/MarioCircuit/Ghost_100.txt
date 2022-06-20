@@ -1,0 +1,154 @@
+Mayro
+False
+105
+0;False;0;w
+20;False;0;w/a/left shift
+62;False;0;w/a/d/left shift
+73;False;0;w/a/d
+74;False;0;w/d
+92;False;0;w
+102;False;0;w/a
+113;False;0;w
+115;False;0;w/a
+117;False;0;w
+147;True;1;w
+153;True;2;w
+171;True;3;w
+173;False;3;w/d
+178;False;3;w
+179;True;4;w
+203;True;5;w
+204;True;6;w
+210;True;7;w
+224;True;8;w
+228;False;8;w/d
+229;True;9;w/d
+236;False;9;w
+237;True;10;w
+247;False;10;w/a/left shift
+256;False;10;w/a/d/left shift
+277;False;10;w/a/left shift
+292;False;10;w/a/d/left shift
+317;False;10;w/a/left shift
+353;False;10;w/left shift
+354;False;10;w
+376;False;10;w/a
+389;False;10;w
+409;True;10;w
+417;False;10;w/d
+423;False;10;w
+425;True;10;w
+453;False;10;w/a
+454;False;10;w/a/left shift
+474;False;10;w/a/d/left shift
+486;False;10;w/a/left shift
+513;False;10;w
+527;False;10;w/space
+538;False;10;w
+566;False;10;w/d
+585;False;10;w
+592;False;10;w/left shift
+593;False;10;w/a/left shift
+599;False;10;w/a/d/left shift
+654;False;10;w/a/left shift
+707;False;10;w/a
+708;False;10;w
+754;False;10;w/a
+756;False;10;w/a/left shift
+804;False;10;w/a/d
+806;False;10;w/d
+825;False;10;w
+869;False;10;w/a
+875;False;10;w
+891;False;10;w/d
+895;True;10;w/d
+896;False;10;w
+903;True;10;w
+922;True;10;w
+941;True;10;w
+972;True;10;w
+975;False;10;w/d
+988;False;10;w
+989;False;10;w/a
+990;False;10;w/a/left shift
+1043;False;10;w/a/d/left shift
+1064;False;10;w/a/left shift
+1093;False;10;w/a
+1094;False;10;w
+1096;False;10;w/d
+1105;False;10;w
+1116;False;10;w/a
+1125;False;10;w
+1142;False;10;w/d
+1143;True;10;w/d
+1146;False;10;w
+1157;True;10;w
+1178;False;10;w/a
+1179;False;10;w/a/left shift
+1232;False;10;w/a
+1233;False;10;w
+1240;False;10;w/d
+1244;False;10;w
+1251;False;10;w/space
+1261;False;10;w
+1286;False;10;w/d
+1312;False;10;w/a/d
+1316;False;10;w/a/left shift
+1329;False;10;w/a/d/left shift
+1350;False;10;w/a/left shift
+1353;False;10;w/a/d/left shift
+1364;False;10;w/a/left shift
+1428;False;10;w/a
+1430;False;10;w
+1451;False;10;w/d
+1457;False;10;w
+1474;False;10;w/a/left shift
+1490;False;10;w/a/d/left shift
+1498;False;10;w/a/left shift
+1528;False;10;w/a/d/left shift
+1531;False;10;w/a/d
+1540;False;10;w/d
+1563;False;10;w
+1595;False;10;w/d
+1605;False;10;w
+1610;True;10;w
+1613;False;10;w/a
+1629;True;10;w/a
+1637;True;10;w/a
+1647;False;10;w/d
+1655;True;10;w/d
+1657;False;10;w
+1675;True;10;w
+1684;False;10;w/a
+1686;False;10;w/a/left shift
+1691;False;10;w/a/d/left shift
+1760;False;10;w/a/left shift
+1806;False;10;w/left shift
+1807;False;10;w
+1809;False;10;w/d
+1818;False;10;w
+1870;False;10;w/a
+1872;False;10;w/a/left shift
+1880;False;10;w/a/d/left shift
+1906;False;10;w/a/d
+1913;False;10;w/d
+1918;False;10;w/a/d
+1920;False;10;w/a/d/left shift
+1921;False;10;w/a/left shift
+1967;False;10;w/a
+1968;False;10;w
+1980;False;10;w/space
+1991;False;10;w/a
+2005;False;10;w
+2023;False;10;w/d
+2054;False;10;w/a/d/left shift
+2056;False;10;w/a/left shift
+2075;False;10;w/a/d/left shift
+2096;False;10;w/a/left shift
+2157;False;10;w/a
+2158;False;10;w
+2178;False;10;w/a
+2184;False;10;w
+2202;False;10;w/a
+2205;False;10;w/a
+END
