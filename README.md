@@ -14,10 +14,10 @@ This project is quite unoptimized and some modules are quite messy.
 # Controls
 This only supports keyboard. I may add controller support later if I decide to continue on the project.
 
-W - `Accelerate`
-S - `Decelerate`
-A - `Turn Left`
-D - `Turn Right`
+W - `Accelerate` 
+S - `Decelerate` 
+A - `Turn Left` 
+D - `Turn Right` 
 
-Left Shift - Tap to `hop`, Hold to `drift`
-Space - `Use Item`
+Left Shift - Tap to `hop`, Hold to `drift` 
+Space - `Use Item` 
