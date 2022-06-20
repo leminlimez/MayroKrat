@@ -6,8 +6,7 @@ Currently only has Time Trial mode and only keyboard support.
 # How to Run
 1. Install [Python](https://www.python.org/downloads/)
 2. Install the required modules: [PyGame,](https://www.pygame.org/wiki/GettingStarted) [Numpy,](https://numpy.org/install) and [Numba.](https://numba.pydata.org/numba-doc/latest/user/installing.html)
-3. Download all the files in the `Mayro Krat` folder.
-4. Open and run `Main.py` in Idle. This will take around 10 seconds to compile upon running each time.
+3. Open and run `Main.py` in Idle. This will take around 10 seconds to compile upon running each time.
 
 This project is quite unoptimized and some modules are quite messy.
 
