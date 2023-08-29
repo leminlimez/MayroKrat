@@ -1,5 +1,5 @@
 # Mayro Krat
-PyGame remake of Super Mario Kart
+PyGame remake of Super Mario Kart. I made this for the final project of my CS class, which required a game to be made in PyGame. The assignment was unfortunately canceled due to my school being hacked right before finals, but I am still posting it here because I worked hard on it and it was a great learning experience.
 
 Currently only has Time Trial mode and only keyboard support.
 
